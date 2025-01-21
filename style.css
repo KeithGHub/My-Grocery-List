@@ -1,0 +1,47 @@
+h1 {
+  color: aqua;
+}
+
+th {
+  border: 1.5px black solid;
+  background-color: tan;
+  height: 40px;
+  width: 377px;
+  display: block;
+  font-size: 32.5px;
+}
+
+h4 {
+  text-align: center;
+}
+
+td {
+  background-color: lightgrey;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 150px;
+  width: 175px;
+  display: inline-block;
+}
+
+img {
+  height: 150px;
+  width: 200px;
+  border: 3px black dotted;
+  padding: 6px;
+}
+
+ul {
+  list-style-type: square;
+}
+
+table,
+tr {
+  display: inline;
+  padding: 6px;
+}
+
+table,
+td {
+  display: inline-block;
+}
